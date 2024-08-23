@@ -1,3 +1,10 @@
 This is a project text file.
 Welcome to the LogsAndStash repository!
 This project is designed to help you understand how to manage commit history and temporary changes using Git.
+Commit History:
+ Learn how to view and interpret commit history.
+ Git Stash:
+ Save and manage uncommitted changes temporarily.
+ 
+ Document your process in a git_stash_and_logs.md file within a docs folder.
+ Commit and push this file to the repository.
