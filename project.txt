@@ -1,2 +1,3 @@
 This is a project text file.
 Welcome to the LogsAndStash repository!
+This project is designed to help you understand how to manage commit history and temporary changes using Git.
