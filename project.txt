@@ -1,1 +1,2 @@
 This is a project text file.
+Welcome to the LogsAndStash repository!
